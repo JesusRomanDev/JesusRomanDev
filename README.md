@@ -4,7 +4,7 @@ Hi 👋 My name is Jesus Roman
 Web Developer
 -------------
 
-I'm Mechatronics Engineer graduated from UANL in Monterrey N.L , I've been learning to code for + 2 years.
+Mechatronics Engineer graduated from UANL in Monterrey N.L , I've been learning to code for + 2 years.
 
 * 🌍  I'm based in Monterrey N.L
 * 🧠  I'm learning React
