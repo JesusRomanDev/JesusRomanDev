@@ -7,7 +7,7 @@ Web Developer
 Mechatronics Engineer graduated from UANL in Monterrey N.L , I've been learning to code for + 2 years.
 
 * 🌍  I'm based in Monterrey N.L
-* 🧠  I'm learning React & Typescript
+* 🧠  I'm learning Typescript
 
 ### Skills
 
